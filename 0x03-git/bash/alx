@@ -2,3 +2,6 @@
 echo "School is so cool!"
 
 #!/bin/bash
+
+
+echo "The school is open!"
