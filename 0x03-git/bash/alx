@@ -1,7 +1,10 @@
 #!/bin/bash
 echo "School is so cool!"
 
+echo "ALX School"
 #!/bin/bash
 
-
 echo "The school is open!"
+
+
+   
